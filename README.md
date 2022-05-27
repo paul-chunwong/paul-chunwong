@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paul-chunwong and I am currently a year 2 CS student at UBC!
-- 👀 I’m interested in Software Development!
-- 🌱 I’m currently learning html, css, js...
+- 👀 I’m interested in a Software Development intern/coop position!
+- 🌱 I’m currently learning React and Database...
 - 📫 How to reach me chunwong@student.ubc.ca or linkedin: https://www.linkedin.com/in/chun-pang-paul-wong-5b9091221/
 
 <!---
