@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paul-chunwong and I am a year 3 CS student at UBC!
 - 👀 I’m currently doing an intern at EY as a product engineer at this moment!
-- 🌈 However, I do seek for other great working opportunities after my current work term!
+- 🌈 AND... I do seek for other great working opportunities after my current work term!
 - 🌱 I’m learning React and Database...
 - 📫 How to reach me chunwong@student.ubc.ca or linkedin: https://www.linkedin.com/in/chun-pang-paul-wong-5b9091221/
 
