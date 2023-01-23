@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paul-chunwong, a year 3 CS student at UBC!
 - 👀 I’m currently doing an internship at EY as a product engineer! 
-- 🌱 I’m learning C# .NET Core, Entity Framework, Microsoft Azure Devops, Dataverse, Power Apps, and React!
+- 🌱 I’m learning Power Apps, React, and React Native!
 - 🌈 Check out the projects I did in the previously attended hackathons: https://devpost.com/yoshipaulwong
 - 📫 How to reach me chunwong@student.ubc.ca or linkedin: https://www.linkedin.com/in/chun-pang-paul-wong-5b9091221/
 
