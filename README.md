@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @paul-chunwong, a year 4 CS student at UBC!
+- 👋 Hi, I’m @paul-chunwong!
 - 👀 I’m currently leading the R&D at ZeroX Gaming, with a focus in APIs and SDKs development.
 - 🌱 I’m learning all the new things in Web3.0!
 - 🌈 Check out the projects I did in the previously attended hackathons: https://devpost.com/yoshipaulwong
