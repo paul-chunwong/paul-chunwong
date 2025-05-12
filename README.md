@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @paul-chunwong!
-- 👀 I’m currently leading the Product Team at ZeroX Gaming, with a focus on APIs and SDKs development.
-- 🌱 I’m learning all the new things in Web3.0!
 - 🌈 Check out the projects I did in the previously attended hackathons: https://devpost.com/yoshipaulwong
 - 📫 How to reach me chunwong@student.ubc.ca or LinkedIn: https://www.linkedin.com/in/chun-pang-paul-wong-5b9091221/
 
